@@ -7,7 +7,7 @@ requires-python = ">=3.13"
 dependencies = []
 
 [project.scripts]
-xlog = "main:main"
+xlog = "xlog.__main__:main"
 
 [build-system]
 requires = ["setuptools>=61.0"]
