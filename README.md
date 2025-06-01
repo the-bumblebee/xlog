@@ -15,7 +15,7 @@
   - `GOOGLE_CLIENT_PATH=<path/to/client_secrets.json>`
   - *Optional* - `GOOGLE_TOKEN_PATH=<path/to/token.jon>`
   - `SPREADSHEET_ID=<spreadsheet-id-from-above-step>`
-  - `SHEET_NAME=Sheet1` - This is the name of workin sheet
+  - `SHEET_NAME=Sheet1` - This is the name of the working sheet
 
 ### Running
 ```sh
