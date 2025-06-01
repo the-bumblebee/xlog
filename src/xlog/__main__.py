@@ -1,7 +1,7 @@
-from xlog.core import run
+from xlog.core import start
 
 def main():
-    run()
+    start()
 
 if __name__ == "__main__":
     main()
