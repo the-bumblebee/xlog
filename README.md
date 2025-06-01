@@ -18,13 +18,8 @@
   - `SHEET_NAME=Sheet1` - This is the name of workin sheet
 
 ### Running
-- Activate venv:
 ```sh
-source .venv/bin/activate
-```
-- Run
-```sh
-xlog "<expense-description>" <amount>
+uv run xlog "<expense-description>" <amount>
 ```
 
-**Note**: This would automatically install the dependencies in `pyproject.yaml` under `.venv/`.
+**Note**: This would automatically install the dependencies in `pyproject.toml` under `.venv/`.
