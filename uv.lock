@@ -324,7 +324,7 @@ wheels = [
 
 [[package]]
 name = "xlog"
-version = "0.1.0"
+version = "0.1.0b1"
 source = { editable = "." }
 dependencies = [
     { name = "google-api-python-client" },
