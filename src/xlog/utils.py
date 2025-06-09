@@ -1,4 +1,3 @@
-import os
 from datetime import datetime
 from xlog.auth import spreadsheet_service
 from xlog.config import SPREADSHEET_ID, SHEET_NAME
